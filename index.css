@@ -1,0 +1,19 @@
+.title{
+  text-align: center;
+}
+.chatbox{
+  width: 1000px;
+  height: 1000px;
+  border: 2px solid black;
+  display: block;
+  margin:auto;
+  padding: 20px;
+}
+.chatmessage{
+  margin-top: 30px;
+  text-align: center;
+}
+.sendbutton{
+  height: 100px;
+  width: 100px;
+}
